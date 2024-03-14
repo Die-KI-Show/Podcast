@@ -1,0 +1,28 @@
+Essenz der Folge: die technische Grundlage ist da, jetzt findet KI schnell seinen Weg in den Alltag
+
+Technologische Ebene:
+- 2022
+  - OpenAI hat mit ChatGPT die Industrie aufgerüttelt
+- 2023 
+  - Die großen Player haben nachgezogen (Google, FB, Amazon, und always-late-to-the-party-Apple)
+  - Einige neue Player sind stark geworden (Mistral, Anthropic)
+  - Open-source macht parallel große Fortschritte und kann (noch) gut mithalten mit den Closed-source Angeboten
+  - Models, Tools und Frameworks haben den Umschwung von Experimenten-Level zu Real-World-Projekten geschaffen
+  - Die Developer-Experience ist deutlich bequemer geworden
+  - Wissen um AI-Integration in user-facing-apps ist noch verstreut und rar gesäht
+- 2024
+  - Entwickler:innen steht eine breite Auswahl von (open/closed) Models und eine solide Tools-Infrastruktur zur Verfügung
+  - 2024 wird das Jahr der Integration von AI in bekannte und neue Tools, Engineers haben alle notwendigne Zutaten und hatten genug Zeit um sich grundlegendes Wissen anzueigenen + Unternehmen spüren Druck sich KI auf die Fahne schreiben zu können
+
+Gesellschaftliche Ebene
+- Doom!
+- Hype!
+- Ethik?
+- Konkrete positive und negative Effekte die schon auftreten
+- Was ist dieses Jahr abzusehen in Sachen Einfluss von KI auf die Gesellschaft?
+
+Business Ebene
+- Wie ist die adoption?
+- Was sind die Sorgen/Hürden?
+- Wer hat heute schon AI publicly deployed? (Notion, Adobe, ....? – ansonsten vor allem Chatbots!)
+- Spannende Startups/Tools?
