@@ -67,3 +67,20 @@ Story Arc, powered by AI:
 6: Demokratisierung von KI
 - Wie zugänglich sind KI-Technologien für die breite Masse?
 - Welche Herausforderungen bleiben bestehen, und welche Rolle wird KI in der zukünftigen Gesellschaft spielen?
+
+———
+
+Material für Hörer:innen für Next Steps:
+- Gute Ressourcen um in Sachen AI auf dem Laufenden zu bleiben? (Websites, Communities, Podcasts, Blogs, Twitter-People/Groups/Lists)
+
+———
+
+Material aus dem wie vllt noch was rausziehen können:
+- https://www.stateof.ai
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-AIs-breakout-year
+- The A.I. Dilemma - March 9, 2023: https://www.youtube.com/watch?v=xoVJKj8lcNQ
+- How Will AI Affect the 2024 Elections? https://www.humanetech.com/podcast/how-will-ai-affect-the-2024-elections-with-renee-diresta-and-carl-miller
+
+———
+
+"State of AI" ist wohl auch korrekt und ist leichter auszusprechen, können den Titel gerne darauf ändern!
