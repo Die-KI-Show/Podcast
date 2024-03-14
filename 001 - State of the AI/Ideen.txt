@@ -1,4 +1,5 @@
 Essenz der Folge: die technische Grundlage ist da, jetzt findet KI schnell seinen Weg in den Alltag
+Oder auch: KI ist nicht mehr nur in den Händen einiger weniger Big Players - AI for the (early adopting) masses!
 
 Technologische Ebene:
 - 2022
@@ -9,16 +10,24 @@ Technologische Ebene:
   - Open-source macht parallel große Fortschritte und kann (noch) gut mithalten mit den Closed-source Angeboten
   - Models, Tools und Frameworks haben den Umschwung von Experimenten-Level zu Real-World-Projekten geschaffen
   - Die Developer-Experience ist deutlich bequemer geworden
-  - Wissen um AI-Integration in user-facing-apps ist noch verstreut und rar gesäht
+  - Wissen um AI-Integration in user-facing-apps ist noch verstreut und rar gesäht (Kurse und Workshops entstehen hier und da, bewegen sich aber meistens sehr an der Oberfläche, auf dem Niveau von "Promting Tricks für ChatGPT")
 - 2024
   - Entwickler:innen steht eine breite Auswahl von (open/closed) Models und eine solide Tools-Infrastruktur zur Verfügung
   - 2024 wird das Jahr der Integration von AI in bekannte und neue Tools, Engineers haben alle notwendigne Zutaten und hatten genug Zeit um sich grundlegendes Wissen anzueigenen + Unternehmen spüren Druck sich KI auf die Fahne schreiben zu können
+  - Die Idee der Rolle des "AI Engineers" (https://www.latent.space/p/ai-engineer)
+  - Bias, Wokeness und Show me the fucking Prompt: Herausforderungen und Diskussionen um das Alignment von Models
+  - Wo stehen wir in Sachen AGI? (natürlich immer ne Frage von der Definition)
 
 Gesellschaftliche Ebene
 - Doom!
 - Hype!
+  - Regelt KI den Klimawandel schon und wir können gedankenlos weiter mit dem alten Benziner unsere Sonntagsfahrten machen?
 - Ethik?
+- Jobangst!
+- Bildungsbereich? Was geht hier, welche konstruktiven und welche saublöden Reaktionen gibt es hier vom Bildungssystem? (vom AI-Check bei Hausarbeiten bis zum https://www.bw-ki.de)
+- Was ist eigentlich noch echt? Wahlen, Enkeltrick und Wertverlust von Content
 - Konkrete positive und negative Effekte die schon auftreten
+- Wie zugänglich ist KI bisher? Welche Hürden gibt es noch? (Sprache, Kultur, "The Hardware-poor")
 - Was ist dieses Jahr abzusehen in Sachen Einfluss von KI auf die Gesellschaft?
 
 Business Ebene
@@ -26,3 +35,35 @@ Business Ebene
 - Was sind die Sorgen/Hürden?
 - Wer hat heute schon AI publicly deployed? (Notion, Adobe, ....? – ansonsten vor allem Chatbots!)
 - Spannende Startups/Tools?
+- Stackoverflow und Suchmaschinen bald nicht mehr relevant?
+
+———
+
+Story Arc, powered by AI:
+
+1: Einführung in die KI-Revolution
+- Wie hat ChatGPT die Industrie verändert?
+- Welche Reaktionen gab es von den großen Playern und welche neuen Akteure sind aufgetaucht?
+- Welche Rolle spielen Open-Source-Initiativen in der Entwicklung der KI?
+
+2: Technologische Entwicklungen
+- Wie ist der Übergang von experimentellen Projekten zu realen Anwendungen gelungen?
+- Inwiefern hat sich die Erfahrung für Entwickler verbessert?
+- Was bedeutet das Aufkommen des „AI Engineer“-Konzepts für die Branche?
+
+3: Integration von KI im Alltag
+- Warum könnte 2024 als Wendepunkt für die Integration von KI in Werkzeuge und Anwendungen gelten?
+- Welche alltäglichen Technologien sind bereits jetzt von KI durchdrungen?
+
+4: Gesellschaftliche Perspektiven
+- Wie stehen Gesellschaft und Experten zum aktuellen Hype und zu den dystopischen Szenarien rund um KI?
+- Welche ethischen Fragen wirft der Einsatz von KI auf?
+- Wie beeinflusst KI den Bildungsbereich und die Authentizität von Informationen?
+
+5: Blick in die Zukunft
+- Wie nahe sind wir an der Realisierung einer allgemeinen künstlichen Intelligenz (AGI)?
+- Welche Veränderungen könnten Arbeit, Klimaschutz und Bildung durch KI erfahren?
+
+6: Demokratisierung von KI
+- Wie zugänglich sind KI-Technologien für die breite Masse?
+- Welche Herausforderungen bleiben bestehen, und welche Rolle wird KI in der zukünftigen Gesellschaft spielen?
