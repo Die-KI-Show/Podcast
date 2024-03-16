@@ -1,6 +1,9 @@
 Essenz der Folge: die technische Grundlage ist da, jetzt findet KI schnell seinen Weg in den Alltag
 Oder auch: KI ist nicht mehr nur in den Händen einiger weniger Big Players - AI for the (early adopting) masses!
 
+Begin:
+- Was meinen wir, wenn wir von KI sprechen? (an KI wird ja schon lange gebastelt, aber die neueste Welle hat wichtige Unterschiede zu den klassischen ML-Ansätzen gebracht)
+
 Technologische Ebene:
 - 2022
   - OpenAI hat mit ChatGPT die Industrie aufgerüttelt
@@ -36,37 +39,6 @@ Business Ebene
 - Wer hat heute schon AI publicly deployed? (Notion, Adobe, ....? – ansonsten vor allem Chatbots!)
 - Spannende Startups/Tools?
 - Stackoverflow und Suchmaschinen bald nicht mehr relevant?
-
-———
-
-Story Arc, powered by AI:
-
-1: Einführung in die KI-Revolution
-- Wie hat ChatGPT die Industrie verändert?
-- Welche Reaktionen gab es von den großen Playern und welche neuen Akteure sind aufgetaucht?
-- Welche Rolle spielen Open-Source-Initiativen in der Entwicklung der KI?
-
-2: Technologische Entwicklungen
-- Wie ist der Übergang von experimentellen Projekten zu realen Anwendungen gelungen?
-- Inwiefern hat sich die Erfahrung für Entwickler verbessert?
-- Was bedeutet das Aufkommen des „AI Engineer“-Konzepts für die Branche?
-
-3: Integration von KI im Alltag
-- Warum könnte 2024 als Wendepunkt für die Integration von KI in Werkzeuge und Anwendungen gelten?
-- Welche alltäglichen Technologien sind bereits jetzt von KI durchdrungen?
-
-4: Gesellschaftliche Perspektiven
-- Wie stehen Gesellschaft und Experten zum aktuellen Hype und zu den dystopischen Szenarien rund um KI?
-- Welche ethischen Fragen wirft der Einsatz von KI auf?
-- Wie beeinflusst KI den Bildungsbereich und die Authentizität von Informationen?
-
-5: Blick in die Zukunft
-- Wie nahe sind wir an der Realisierung einer allgemeinen künstlichen Intelligenz (AGI)?
-- Welche Veränderungen könnten Arbeit, Klimaschutz und Bildung durch KI erfahren?
-
-6: Demokratisierung von KI
-- Wie zugänglich sind KI-Technologien für die breite Masse?
-- Welche Herausforderungen bleiben bestehen, und welche Rolle wird KI in der zukünftigen Gesellschaft spielen?
 
 ———
 
