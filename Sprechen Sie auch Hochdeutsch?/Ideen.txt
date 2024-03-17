@@ -1,0 +1,4 @@
+- Ein Schwabe und ein Bayer sprechen über AI Modelle, die ideal für den deutschsprachigen Raum sind :D
+- Welche Modelle (open und closed) bieten sich für den Einsatz in deutschsprachigen Systemen an?
+- Gibt es neben der reinen Textqualität auch andere wichtige Faktoren? Wie Training auf regionale kulturelle Themen/Ansichten/...?
+- Welche Modelle können schon richtig gut deutsche Sprache generieren?
