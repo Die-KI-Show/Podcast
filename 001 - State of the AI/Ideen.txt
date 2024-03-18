@@ -3,16 +3,20 @@ Oder auch: KI ist nicht mehr nur in den Händen einiger weniger Big Players - AI
 
 Begin:
 - Was meinen wir, wenn wir von KI sprechen? (an KI wird ja schon lange gebastelt, aber die neueste Welle hat wichtige Unterschiede zu den klassischen ML-Ansätzen gebracht)
+- Evtl. erstaunliche KI Daten / Statistiken um den Zuhörer neugierig zu machen
 
 Technologische Ebene:
+- ML Space vor den Transformers
+- 2017 - Heute ML Space nach Transformers (https://blog.research.google/2017/08/transformer-novel-neural-network.html)
+- 2020 - GPT 3 API release - Erster Interaktiver Durchbruch - Führte zu ChatGPT
 - 2022
   - OpenAI hat mit ChatGPT die Industrie aufgerüttelt
 - 2023 
-  - Die großen Player haben nachgezogen (Google, FB, Amazon, und always-late-to-the-party-Apple)
+  - Die großen Player haben nachgezogen (Google, Meta, Amazon, und always-late-to-the-party-Apple)
   - Einige neue Player sind stark geworden (Mistral, Anthropic)
-  - Open-source macht parallel große Fortschritte und kann (noch) gut mithalten mit den Closed-source Angeboten
+  - Open-source macht parallel große Fortschritte und kann (noch) gut mithalten mit den Closed-source Angeboten (Wenn auch noch Computing Power für wirklich große Multimodels fehlen)
   - Models, Tools und Frameworks haben den Umschwung von Experimenten-Level zu Real-World-Projekten geschaffen
-  - Die Developer-Experience ist deutlich bequemer geworden
+  - Die Developer-Experience ist deutlich bequemer geworden (Github Copilot)
   - Wissen um AI-Integration in user-facing-apps ist noch verstreut und rar gesäht (Kurse und Workshops entstehen hier und da, bewegen sich aber meistens sehr an der Oberfläche, auf dem Niveau von "Promting Tricks für ChatGPT")
 - 2024
   - Entwickler:innen steht eine breite Auswahl von (open/closed) Models und eine solide Tools-Infrastruktur zur Verfügung
@@ -37,14 +41,14 @@ Business Ebene
 - Wie ist die adoption?
 - Was sind die Sorgen/Hürden?
 - Wer hat heute schon AI publicly deployed? (Notion, Adobe, ....? – ansonsten vor allem Chatbots!)
+- Auswirkungen auf die Joblandschaft - Massenkündigungen oder Besetzen von offenen Stellen (Salesforce, Duolingo usw.)
 - Spannende Startups/Tools?
 - Stackoverflow und Suchmaschinen bald nicht mehr relevant?
 
 ———
-
 Material für Hörer:innen für Next Steps:
-- Gute Ressourcen um in Sachen AI auf dem Laufenden zu bleiben? (Websites, Communities, Podcasts, Blogs, Twitter-People/Groups/Lists)
-
+- Gute Ressourcen um in Sachen AI auf dem Laufenden zu bleiben? (Websites, Communities, Podcasts, Blogs, Twitter-People/Groups/Lists) - Und natürlich 'Die KI Show'
+- Evtl. Hausaufgaben, die wir und unsere Zuhörer gleichermaßen erledigen können
 ———
 
 Material aus dem wie vllt noch was rausziehen können:
@@ -56,3 +60,7 @@ Material aus dem wie vllt noch was rausziehen können:
 ———
 
 "State of AI" ist wohl auch korrekt und ist leichter auszusprechen, können den Titel gerne darauf ändern!
+
+Würde den Namen so lassen - hört sich gut an!
+
+Wir müssen die Ideen komprimieren, sonst kommen wir mit der Zeit nicht so hin
