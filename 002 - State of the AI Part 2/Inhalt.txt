@@ -1,0 +1,63 @@
+Folge 2 - Thema: State of the AI (part 2)
+
+  1. Intro (Benny)
+    Neue Folge, neues Mikro und herzlich Willkommen bei der KI Show.
+    Mein Name ist Benny und gemeinsam mit Ruben tauchen wir praxisnah und im Detail in die Welt der künstlichen Intelligenz ein.
+    Egal, ob du KI das erste mal hörst oder schon 10 Jahre damit arbeitest, hier bist du genau richtig.
+    Ruben, wo knüpfen wir heute an?
+
+  2. Kurzvorstellung des Episoden-Themas + Bogen Mini-Thema (Ruben)
+
+  3. Mini-Thema (Benny)
+    ?
+
+  4. Reflextion Mini-Thema (Ruben)
+
+  5. Reflextion Mini-Thema + Bogen Episoden-Thema (Benny)
+
+  6. Thema: The State of the AI
+    1. The Start (of AI)
+        70er bis heute (KI Winter, ML nach dem Internet)
+        Transformers Technologie 2017
+
+      Bogen: 
+        GPT 1,2,3 - Bis zu ChatGPT
+    
+    2. The Rise (of AI)
+      Roter Faden:
+        ChatGPT als Start der globalen Forschung (Relevanz Userinterfaces)
+        Generative AI
+        Was wurde binnen eines Jahres geschaffen und wer spielt mit (Big Players)
+
+      Bogen:
+        Multimodale LLMs als State of the Art
+
+    3. The World (Model)
+      Roter Faden:
+        Was ist Multimodal / ein Worldmodel
+        Wie werden diese LLMs die Welt verändern (Totale Befähigung, Robotik)
+
+      Bogen zu Hausaufgabe:
+        Wir haben die Möglichkeiten von KI besprochen, aber es birgt auch Gefahren, welches das Thema unserer nächsten Folge (Thema: Utopia or Dystopia) ist
+
+  7. Hausaufgabe (Benny)
+    Hausaufgabe: The A.I. Dilemma - March 9, 2023: https://www.youtube.com/watch?v=xoVJKj8lcNQ ansehen
+
+
+Notizen:
+  Technologische Ebene:
+  - ML Space vor den Transformers
+  - 2017 - Heute ML Space nach Transformers (https://blog.research.google/2017/08/transformer-novel-neural-network.html)
+  - 2020 - GPT 3 API release - Erster Interaktiver Durchbruch - Führte zu ChatGPT
+  - 2022
+    - OpenAI hat mit ChatGPT die Industrie aufgerüttelt
+  - 2023 
+    - Die großen Player haben nachgezogen (Google, Meta, Amazon, und always-late-to-the-party-Apple)
+    - Einige neue Player sind stark geworden (Mistral, Anthropic)
+    - Open-source macht parallel große Fortschritte und kann (noch) gut mithalten mit den Closed-source Angeboten (Wenn auch noch Computing Power für wirklich große Multimodels fehlen)
+    - Models, Tools und Frameworks haben den Umschwung von Experimenten-Level zu Real-World-Projekten geschaffen
+    - Die Developer-Experience ist deutlich bequemer geworden (Github Copilot)
+    - Wissen um AI-Integration in user-facing-apps ist noch verstreut und rar gesäht (Kurse und Workshops entstehen hier und da, bewegen sich aber meistens sehr an der Oberfläche, auf dem Niveau von "Promting Tricks für ChatGPT")
+  - 2024
+    - Entwickler:innen steht eine breite Auswahl von (open/closed) Models und eine solide Tools-Infrastruktur zur Verfügung
+    - 2024 wird das Jahr der Integration von AI in bekannte und neue Tools, Engineers haben alle notwendigne Zutaten und hatten genug Zeit um sich grundlegendes Wissen anzueigenen + Unternehmen spüren Druck sich KI auf die Fahne schreiben zu können

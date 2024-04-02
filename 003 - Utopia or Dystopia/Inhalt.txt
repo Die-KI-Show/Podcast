@@ -1,0 +1,46 @@
+Folge 3 - Thema: Utopia or Dystopia
+
+  0. Intro-Snippet/Audio-Branding/Audio-Logo
+    Haben eines, können wir aber gerne austauschen
+
+  1. Intro (Ruben)
+  - Welcome
+    Hey und herzlich willkommen bei der KI Show
+    Ich bin Ruben, und zusammen mit Benny tauchen wir praxisnah und im Detail in die Welt der künstlichen Intelligenz ein
+
+  - Ansprechen (Generisch)  
+    Egal, ob du deine Träume schon von der KI interpretieren lässt oder Angst hast, dass ein Roboter übermorgen deinen Job wegnimmt, hier bist du hier genau richtig!
+
+  - Bogen in Dialog spannen  
+    Benny, worüber philosophieren wir heute?
+
+  2: Kurzvorstellung des Themas (Benny)
+
+  3: Mini-Thema/"Infonugget"/Wiederkehrendes Thema (Ruben)
+    - News
+    - Statistik
+    - Tool
+    - Konzept
+
+  4: Thema der Folge
+    - Doom!
+    - Hype!
+        - Regelt KI den Klimawandel schon und wir können gedankenlos weiter mit dem alten Benziner unsere Sonntagsfahrten machen?
+    - Ethik?
+    - Jobangst!
+    - Bildungsbereich? Was geht hier, welche konstruktiven und welche saublöden Reaktionen gibt es hier vom Bildungssystem? (vom AI-Check bei Hausarbeiten bis zum https://www.bw-ki.de)
+    - Was ist eigentlich noch echt? Wahlen, Enkeltrick und Wertverlust von Content
+    - Konkrete positive und negative Effekte die schon auftreten
+    - Wie zugänglich ist KI bisher? Welche Hürden gibt es noch? (Sprache, Kultur, "The Hardware-poor")
+    - Was ist dieses Jahr abzusehen in Sachen Einfluss von KI auf die Gesellschaft?
+  
+  5: Hausaufgabe
+    Inhaltlich passend zum Thema der nächsten Folge
+
+Notizen zur möglichen nächsten Folge: Business Ebene
+  - Wie ist die adoption?
+  - Was sind die Sorgen/Hürden?
+  - Wer hat heute schon AI publicly deployed? (Notion, Adobe, ....? – ansonsten vor allem Chatbots!)
+  - Auswirkungen auf die Joblandschaft - Massenkündigungen oder Besetzen von offenen Stellen (Salesforce, Duolingo usw.)
+  - Spannende Startups/Tools?
+  - Stackoverflow und Suchmaschinen bald nicht mehr relevant?

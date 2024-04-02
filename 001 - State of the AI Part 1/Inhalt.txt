@@ -1,32 +1,4 @@
-Länge ca. 20 min qualitativer Content
-
-Intro Struktur: (Evtl. immer wiederkerhrend aber doch underschiedlich)
-  1. Snippet
-    Müssen wir noch suchen https://elements.envato.com/de/computer-glitchy-logo-XC6GTA8
-
-  2. Sprechtext
-  - Welcome 
-    Hey und herzlich willkommen bei der KI Show
-    Ich bin Ruben / Benn, und zusammen mit Benny / Ruben tauchen wir praxisnah und im Detail in die Welt der künstlichen Intelligenz ein
-
-  - Ansprechen (Generisch)  
-    Egal, ob du tagsüber mit KI dein Geld verdienst oder nachts an spannenden Prototypen bastelst
-    Egal, ob du in die Welt der KI eintauchen willst oder schon mitten im Geschehen bist
-    Egal, ob KI Entwickler oder Erzieher
-    
-    , hier bist du hier genau richtig!
-
-  - Bogen in Dialog spannen  
-    Benny / Ruben, worüber plaudern (Generisch: philosophieren, sprechen, senieren) wir heute?"
-
-  - Wiederkehrendes Thema
-    - News des Monats
-    - Statistik des Monats
-    - Tool des Monats
-    - Irgendwas des Monats
-
-
-Folge 1 - Thema: State of the AI
+Folge 1 - Thema: State of the AI (part 1)
 
   1. Intro (Ruben):
     Hey und herzlich willkommen bei der KI Show.
