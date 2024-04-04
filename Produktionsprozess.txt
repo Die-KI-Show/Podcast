@@ -1,0 +1,44 @@
+1. Thema auswählen
+  - Sammlung für zukünftige Ideen als Branch im Repo
+  - Thema der nächsten Folge sollte vor der Aufnahme schon stehen, sodass die Hausaufgabe passend ausgewählt werden kann
+
+2. Prep-Meeting
+  - Kurzes Treffen um über die groben Inhalte des Themas zu sprechen und zu brainstormen (+ Hausaufgabe aussuchen)
+  - Je mehr die Idee vorbereitet und vorstrukturiert ist, desto schneller sind wir (könnten wir also gut asynchron machen)
+  - Intro + Überraschungs-Thema immer im Wechsel oder je Episode entscheiden?
+
+3. Vorbereitung
+  - Grobe Agenda in thetimebox.app anlegen
+  - Squadcast Aufnahme-Link vorbereiten
+  - Links zu beidem bereitlegen (eventuell wäre es sinnvoll, wenn wir ein gemeinsames live-Dokument wie z.B. Google Docs hätten, auf das wir während der Aufnahme gemeinsam gucken und mit unseren Cursorn markieren wo wir inhaltlich jeweils stehen?)
+
+4. Aufnahme
+  - 1h ist ein guter Zeitblock mit Vor- und Nachbereitung und genug Puffer für die Aufnahme
+  - Gibt es noch eindeutigere Signale um dem anderen zu zeigen, man ist fertig?
+  - Eigenes Video ausblenden!
+  - Übergänge von einer zur anderen Person fühlen sich ohne Pause sehr natürlich an (ohne eine Gesprächsbrücke/Frage dem anderen zu stellen), fand ich
+  - Tab offen lassen für den Upload zu Squadcast (falls die Audio-Dateien beim Runterladen kaputt sind, gibt's noch den "Rerender" Button in Squadcast zum eventuellen retten)
+
+5. Nachbearbeitung Audio
+  - Garageband
+    - WAV-Dateien von Squadcast runterladen
+    - In Garagebend auf zwei Spuren importieren
+    - Noise Gate (wegen ) und EQ anwenden (je Spur separat und nach Gefühl)
+    - Alle störenden Geräusche im Intro entfernen (für einen positiven ersten Eindruck)
+    - Lautstärke der beiden Spuren angleichen
+  - Descript
+    - Dateien in Descript importieren
+    - automatisches Transcript erstellen lassen
+    - Intro- und Outro-Soundfile einfügen
+    - Irrelevante Inhalte (Vor- und Nachgespräche und Meta-Gespräche dazwischen) entfernen
+    - Verplappern oder doppelte Versuche entfernen
+    - Einmal durchhören und währendessen eventuelle Kleinigkeiten und die sehr störenden Geräusche (Husten, Ans-Mikro-Stoßen, ...) entfernen, aber kleinere Sachen belassen
+    - Exportieren als WAV mit hoher Qualität
+    - Transcript von Descript aufräumen oder finden wir eine qualitativere Methode, sodass wir weniger manuelle Mühe haben?
+
+6. Release
+  - Bei letscast.fm eine neue Episode anlegen
+    - Titel und Kurzbeschreibung einfügen (könnten wir auch schon bei der Definition der Episode im Repository festlegen, die ganzen Metadaten)
+    - Show Notes schreiben (könnten wir das über das Transcript mit KI bisschen automatisieren, damit wir nix vergessen, was wir erwähnt haben?) mit Links und eventuellen Erklärungen
+    - Spezielles Cover für die Folge basteln? (wäre wahrscheinlich gut, wenn wir da ein Template haben, dass wir je Thema dann ein wenig anpassen)
+    - Release-Datum festlegen
