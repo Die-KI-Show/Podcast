@@ -14,13 +14,13 @@ Folge 3 - Thema: Utopia or Dystopia
   - Bogen in Dialog spannen  
     Benny, worüber philosophieren wir heute?
 
-  2: Kurzvorstellung des Themas (Benny)
+  2: Kurzvorstellung des Themas Utopia or Dystopia (Benny)
 
   3: Mini-Thema (Ruben)
     - Freund, Feind, Multiplikator
 
-  4: Thema der Folge
-    - An Hausaufgabe "The AI Dilemma anschließen
+  4: Thema der Folge "Utopia or Dystopia"
+    - An Hausaufgabe "The AI Dilemma" anschließen
     - a) Utopie: Beispiele (nah und fern)
     - b) Dystopie: Beispiele (nah und fern)
     - c) Wie damit umgehen? Da die Entwicklung schwer vorherzusehen ist, wie vorbereiten? (hilfreiche Perspektive, Sicherheit im Job, Kinder)
@@ -44,7 +44,7 @@ Notizen:
     - Wie zugänglich ist KI bisher? Welche Hürden gibt es noch? (Sprache, Kultur, "The Hardware-poor")
     - Was ist dieses Jahr abzusehen in Sachen Einfluss von KI auf die Gesellschaft?
 
-Notizen zur möglichen nächsten Folge: Business Ebene
+Alte Notizen zur möglichen nächsten Folge: Business Ebene
   - Wie ist die adoption?
   - Was sind die Sorgen/Hürden?
   - Wer hat heute schon AI publicly deployed? (Notion, Adobe, ....? – ansonsten vor allem Chatbots!)

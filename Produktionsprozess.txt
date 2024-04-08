@@ -1,6 +1,7 @@
 1. Thema auswählen
   - Sammlung für zukünftige Ideen als Branch im Repo
   - Thema der nächsten Folge sollte vor der Aufnahme schon stehen, sodass die Hausaufgabe passend ausgewählt werden kann
+  - Sollten wir englische Titel beibehalten oder auf deutsche wechseln oder einen Mischmasch machen?
 
 2. Prep-Meeting
   - Kurzes Treffen um über die groben Inhalte des Themas zu sprechen und zu brainstormen (+ Hausaufgabe aussuchen)
