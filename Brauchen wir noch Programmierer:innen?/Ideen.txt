@@ -1,0 +1,9 @@
+- Aktuelle Programmierer:innen fragen sich: bin ich bald arbeitslos?
+- Junge Generationen fragen sich: lohnt es sich noch programmieren zu lernen?
+
+-> Enhanced, not exchanged developers!
+-> KI ist ein Productivity Booster, eliminiert die Chores und Maintenance, Grunt work
+-> Engineers steigen in der täglichen Arbeit in der Abstraktionsleiter nach oben
+-> Konkretes Bild aufzeigen, wie die Zukunft als Programmierer:in aussieht
+-> Aufzeigen warum es sich trotz Code-Gen-AI lohnt die Konzepte von Programmiersprachen zu lernen
+-> Und warum es durch KI fast egal ist welche Programmiersprache man lernt
