@@ -1,0 +1,11 @@
+- Wie funktioniert die Transformer Architektur eigentlich?
+- Und die Diffusion-Modelle?
+- Die Ansätze lassen sich recht gut erklären, ohne dass man komplizierte Papers lesen muss
+- Und das Verständnis hilft generative AI greifbarer zu machen, weniger Black Magic
+- Anwendung der Transformer-Idee
+  - Für Text
+  - Verbesserung der Video- und Bildgenerierung (in Kombination mit Diffusionmodels)
+  - Musikgenerierung
+  - Spracherkennung
+  - Sprachgenerierung
+  - ...
