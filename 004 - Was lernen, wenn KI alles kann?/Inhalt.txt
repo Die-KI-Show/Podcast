@@ -1,21 +1,14 @@
 Thema: Was lernen, wenn KI alles kann?
 
   0. Intro-Snippet/Audio-Branding/Audio-Logo
-
   1. Intro (Benny)
-    Hey und herzlich willkommen bei der KI Show
-    Ich bin Benny, und zusammen mit Ruben tauchen wir praxisnah und im Detail in die Welt der künstlichen Intelligenz ein
-    Egal, ob du ?? oder ??
-    , hier bist du hier genau richtig!
-    Ruben, worüber ?? wir heute?
-
+    Hey und herzlich willkommen bei der KI Show! Ich bin Benny, und zusammen mit Ruben tauchen wir praxisnah und im Detail in die Welt der künstlichen Intelligenz ein. Egal, ob du schon als KI-Flüsterer bekannt bist oder dich noch fragst, wie Netflix immer genau weiß, was du als nächstes schauen möchtest, hier bist du hier genau richtig!
+    Ruben, was lernen wir heute?
   2: Kurzvorstellung des Episoden-Themas + Bogen Mini-Thema (Ruben)
 
   3: Mini-Thema/"Infonugget"/Anstoß (Benny)
     ??
-
   4. Reflextion Mini-Thema (Ruben)
-
   5. Reflextion Mini-Thema + Bogen Thema (Benny)
 
   6: Thema der Folge
@@ -24,8 +17,15 @@ Thema: Was lernen, wenn KI alles kann?
     - Selbst für "Jobsicherheit" sorgen/Lebenslanges Lernen
     - Wissens- und Grenzen-Unlock (live Sprachübersetzung, Wissen unabhängig der Sprache oder dem Wissenslevel)
   
-  (optional) 7: Teaser nächste Folge + Hausaufgabe
-    ?
+  7: Teaser nächste Folge + Hausaufgabe
+    - Nächste Folge:
+      - "Chatbots: the Good, the Bad and the Ugly"
+    - Hausaufgabe:
+      - Experimentiert mit euren Chatbots!
+      - egal ob ihr ChatGPT bezahlt, BING oder Gemini testet oder ein Open Source Chatbot installiert habt
+      - Testet die Wissens- und Verständnisgrenzen
+      - Versucht es mit allerlei Fragen, vergleicht unterschiedliche Chatbots, macht Faktencheck
+      - Und macht mal den Vergleich zwischen einer Suchmaschine, einem Chatbot und dem Hybriden perplexity.ai
   
   8: Outro (Ruben)
     Das war's von uns bei der KI-Show. Vielen Dank fürs Zuhören!

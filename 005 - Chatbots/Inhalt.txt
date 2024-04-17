@@ -1,0 +1,22 @@
+Thema: Chatbots: the Good, the Bad and the Ugly
+
+  0. Intro-Snippet/Audio-Branding/Audio-Logo
+  1. Intro (Ruben)
+  - Welcome
+    Hey und herzlich willkommen bei der KI Show! Ich bin Ruben, und zusammen mit Benny tauchen wir praxisnah und im Detail in die Welt der künstlichen Intelligenz ein. Egal, ob du schon Therapiesitzungen beim Chatbot abhältst oder nur hoffst, dass Siri dich mal auf anhieb versteht, hier bist du hier genau richtig!
+    Benny, worüber *chatten* wir heute? :P"
+  2: Kurzvorstellung des Episoden-Themas + Bogen Mini-Thema (Benny)
+
+  3: Mini-Thema/"Infonugget"/Wiederkehrendes (Ruben)
+    - ???
+  4. Reflextion Mini-Thema (Benny)
+  5. Reflextion Mini-Thema + Bogen Thema (Ruben)
+
+  6: Thema der Folge
+    - The Good: Stärken und Überraschendes
+    - The Bad: Schwächen
+    - The Ugly: Gefahren (Halluzinationen, Misinformation, intransparente Trainingsdaten, Bias, ...)
+    - Closed vs. Open Chatbots
+
+  7: Teaser nächste Folge + Hausaufgabe
+    Inhaltlich passend zum Thema der nächsten Folge
